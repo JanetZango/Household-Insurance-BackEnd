@@ -3,7 +3,7 @@ Application that allows users to add images to get insured
 
 # Getting Started
 
-1.	Installation process
+1.	Installation process<br/>
 Install Visual Studio 2022<br/>
 2.Database used<br/>
 -SQL Server Management Studio 19
